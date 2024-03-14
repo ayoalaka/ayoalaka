@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Sure, here's a bio for your GitHub page based on the provided information:
-
----
-
 🚀 DevOps Engineer | Automating the Future 🤖
 
 Passionate DevOps engineer with over 5 years of experience in the IT industry, specializing in automating, creating, releasing, and deploying code. Currently, a DevOps Engineer Consultant at Blooming CloudOps, Dallas, TX. 
