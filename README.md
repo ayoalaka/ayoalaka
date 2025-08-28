@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🚀 DevOps Engineer | Automating the Future 🤖
 
-Passionate DevOps engineer with over 5 years of experience in the IT industry, specializing in automating, creating, releasing, and deploying code. Currently, a DevOps Engineer Consultant at Blooming CloudOps, Dallas, TX. 
+Passionate DevOps engineer with over 5 years of experience in the IT industry, specializing in automating, creating, releasing, and deploying interesting projects. Currently, a DevOps Engineer Consultant at Blooming CloudOps, Dallas, TX. 
 
 🔧 **Tech Stack**: AWS, Azure, OpenStack | Docker, ECS, Kubernetes | Python, Java, C++ | Shell scripting | Jenkins, Terraform, Ansible, Prometheus, Grafana
 
